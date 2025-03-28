@@ -12,10 +12,10 @@ jobs:
   md-to-pdf:
     name: Build PDF
     runs-on: ubuntu-latest
-    container: pandoc/latex:3.6
+    container: pandoc/extra:3.6
     steps:
       - uses: actions/checkout@v3
-      - run: pandoc README.md -o cv.pdf
+      - run: pandoc README.md -o cv.pdf --pdf-engine=lualatex -V mainfont="DejaVu Sans"
       - uses: actions/upload-artifact@v4
         with:
           name: CV
