@@ -2,8 +2,8 @@
 
 <button onclick="window.print()">`print`</button><br>
 
-| 📧 Email                 | 🔗 LinkedIn                                                                 | 🔗 GitHub                                                | 🛩️ Telegram |
-| :--------------- | :----------------------- | :-------------------------------------------------------------------------- | :------------------------------------------------------- |
+| 📧 Email                                      | 🔗 LinkedIn                                                                   | 🔗 GitHub                                                  | 🛩️ Telegram                                 |
+| :-------------------------------------------- | :---------------------------------------------------------------------------- | :--------------------------------------------------------- | :------------------------------------------ |
 | [`a@iakimenko.link`](mailto:a@iakimenko.link) | [`www.linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/) | [`github.com/kukaryambik`](https://github.com/kukaryambik) | [`@kukaryambik`](https://t.me/kukaryambik/) |
 
 ## 🥜 Summary
@@ -20,7 +20,7 @@ DevOps Engineer with 7+ years of experience specializing in Kubernetes, Terrafor
 
 ## 🧰 My Tool Set
 
-*I'm always eager to learn new instruments, but here's a list of tools I've worked with the most:*
+_I'm always eager to learn new instruments, but here's a list of tools I've worked with the most:_
 
 - **CI/CD**: GitLab CI, ArgoCD, FluxCD
 - **Containers**: Kubernetes, Docker, Skopeo, Crane, Kaniko
