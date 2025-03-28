@@ -4,7 +4,7 @@
 
 | 📍 Location      | 📧 Email                 | 🔗 LinkedIn                                                                 | 🔗 GitHub                                                |
 | :--------------- | :----------------------- | :-------------------------------------------------------------------------- | :------------------------------------------------------- |
-| Belgrade, Serbia | aleksandr@iakimenko.link | [www.linkedin.com/in/kukaryambik](https://www.linkedin.com/in/kukaryambik/) | [github.com/kukaryambik](https://github.com/kukaryambik) |
+| Belgrade, Serbia | a@iakimenko.link | [www.linkedin.com/in/kukaryambik](https://www.linkedin.com/in/kukaryambik/) | [github.com/kukaryambik](https://github.com/kukaryambik) |
 
 ## 🥜 Summary
 
