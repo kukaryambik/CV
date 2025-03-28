@@ -14,9 +14,16 @@ jobs:
     runs-on: ubuntu-latest
     container: pandoc/extra:3.6
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+
       - run: pandoc README.md -o cv.pdf --pdf-engine=lualatex -V mainfont="Source Sans Pro"
+
       - uses: actions/upload-artifact@v4
         with:
           name: CV
           path: cv.pdf
+
+      - uses: softprops/action-gh-release@v2
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: cv.pdf
