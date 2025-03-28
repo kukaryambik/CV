@@ -78,8 +78,8 @@ About the company: development company.
 
 ## 📚 Portfolio
 
-- **[givme](https://github.com/kukaryambik/givme)** – Tool for switching container images from inside the container.
-- **[do-cluster](https://github.com/kukaryambik/do-cluster)** – Ready to use Kubernetes cluster provisioning repo with fully automated CI/CD.
+- **[github.com/kukaryambik/givme](https://github.com/kukaryambik/givme)** – Tool for switching container images from inside the container.
+- **[github.com/kukaryambik/do-cluster](https://github.com/kukaryambik/do-cluster)** – Ready to use Kubernetes cluster provisioning repo with fully automated CI/CD.
 
 ## 🌐 Languages
 
