@@ -4,7 +4,7 @@
 
 | 📍 Location      | 📧 Email                 | 🔗 LinkedIn                                                                 | 🔗 GitHub                                                |
 | :--------------- | :----------------------- | :-------------------------------------------------------------------------- | :------------------------------------------------------- |
-| Belgrade, Serbia | a@iakimenko.link | [www.linkedin.com/in/kukaryambik](https://www.linkedin.com/in/kukaryambik/) | [github.com/kukaryambik](https://github.com/kukaryambik) |
+| Belgrade, Serbia | [a@iakimenko.link](mailto:a@iakimenko.link) | [www.linkedin.com/in/kukaryambik](https://www.linkedin.com/in/kukaryambik/) | [github.com/kukaryambik](https://github.com/kukaryambik) |
 
 ## 🥜 Summary
 
@@ -20,7 +20,7 @@ DevOps Engineer with 7+ years of experience specializing in Kubernetes, Terrafor
 
 ## 🧰 Tool Set
 
-I'm always eager to learn new instruments, but here's a list of tools I've worked with the most:
+*I'm always eager to learn new instruments, but here's a list of tools I've worked with the most:*
 
 - **CI/CD**: GitLab CI, ArgoCD, FluxCD
 - **Containers**: Kubernetes, Docker, Skopeo, Crane, Kaniko
