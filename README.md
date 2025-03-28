@@ -28,6 +28,8 @@ I'm always eager to learn new instruments, but here's a list of tools I've worke
 - **Languages**: Go, Python, Bash
 - **Cloud**: Azure, DigitalOcean
 
+<!--more-->
+
 ## 🔍 Professional Experience
 
 **DevOps Engineer @ [Exness](https://www.exness.com/)** _(Nov 2022 - Present)_
