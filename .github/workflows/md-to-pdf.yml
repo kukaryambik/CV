@@ -5,8 +5,8 @@ on:
   push:
     branches:
       - main
-    paths:
-      - '**.md'
+    # paths:
+    #   - '**.md'
 
 jobs:
   converttopdf:
@@ -14,12 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: baileyjm02/markdown-to-pdf@v1
-        with:
-          input_dir: ./
-          output_dir: pdf
-          build_html: false
+      - run: apt-get update && apt-get install -y pandoc
+      - run: pandoc README.md -o cv.pdf
       - uses: actions/upload-artifact@v4
         with:
-          name: cv
-          path: pdf
+          name: CV
+          path: cv.pdf
