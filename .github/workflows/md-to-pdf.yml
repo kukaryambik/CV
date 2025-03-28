@@ -16,7 +16,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - run: pandoc README.md -f gfm -o cv.pdf --pdf-engine=lualatex -V mainfont="Source Sans Pro"
+      - run: pandoc README.md -f gfm -o cv.pdf --pdf-engine=Tectonic
+
+      # -V mainfont="Source Sans Pro"
 
       # - uses: mkrakowitzer/actions-makepdfs@master
       #   with:
