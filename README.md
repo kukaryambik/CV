@@ -1,10 +1,10 @@
-# Aleksandr IAKIMENKO [`@kukaryambik`](https://t.me/kukaryambik/)
+# Aleksandr IAKIMENKO
 
 <button onclick="window.print()">`print`</button><br>
 
-| 📍 Location      | 📧 Email                 | 🔗 LinkedIn                                                                 | 🔗 GitHub                                                |
+| 📧 Email                 | 🔗 LinkedIn                                                                 | 🔗 GitHub                                                | 🛩️ Telegram |
 | :--------------- | :----------------------- | :-------------------------------------------------------------------------- | :------------------------------------------------------- |
-| Belgrade, Serbia | [a@iakimenko.link](mailto:a@iakimenko.link) | [www.linkedin.com/in/kukaryambik](https://www.linkedin.com/in/kukaryambik/) | [github.com/kukaryambik](https://github.com/kukaryambik) |
+| [`a@iakimenko.link`](mailto:a@iakimenko.link) | [`www.linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/) | [`github.com/kukaryambik`](https://github.com/kukaryambik) | [`@kukaryambik`](https://t.me/kukaryambik/) |
 
 ## 🥜 Summary
 
@@ -78,8 +78,8 @@ About the company: development company.
 
 ## 📚 Portfolio
 
-- **[github.com/kukaryambik/givme](https://github.com/kukaryambik/givme)** – Tool for switching container images from inside the container.
-- **[github.com/kukaryambik/do-cluster](https://github.com/kukaryambik/do-cluster)** – Ready to use Kubernetes cluster provisioning repo with fully automated CI/CD.
+- **[`github.com/kukaryambik/givme`](https://github.com/kukaryambik/givme)** – Tool for switching container images from inside the container.
+- **[`github.com/kukaryambik/do-cluster`](https://github.com/kukaryambik/do-cluster)** – Ready to use Kubernetes cluster provisioning repo with fully automated CI/CD.
 
 ## 🌐 Languages
 
