@@ -1,4 +1,4 @@
-# Aleksandr IAKIMENKO
+# Aleksandr IAKIMENKO [`@kukaryambik`](https://t.me/kukaryambik/)
 
 <button onclick="window.print()">`print`</button><br>
 
@@ -18,7 +18,7 @@ DevOps Engineer with 7+ years of experience specializing in Kubernetes, Terrafor
 - Automate the enforcement of Kubernetes policies (e.g. PSS)
 - Optimize infrastructure cost and observability
 
-## 🧰 Tool Set
+## 🧰 My Tool Set
 
 *I'm always eager to learn new instruments, but here's a list of tools I've worked with the most:*
 
@@ -29,8 +29,6 @@ DevOps Engineer with 7+ years of experience specializing in Kubernetes, Terrafor
 - **Monitoring/Logging**: Prometheus, Grafana, Alertmanager, PagerDuty, Loki, ELK
 - **Languages**: Go, Python, Bash
 - **Cloud**: Azure, DigitalOcean
-
-<!--more-->
 
 ## 🔍 Professional Experience
 
