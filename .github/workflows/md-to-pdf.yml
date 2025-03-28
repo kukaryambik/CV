@@ -12,14 +12,16 @@ jobs:
   md-to-pdf:
     name: Build PDF
     runs-on: ubuntu-latest
-    # container: pandoc/extra:3.6
+    container: pandoc/extra:3.6
     steps:
       - uses: actions/checkout@v4
 
-      - uses: mkrakowitzer/actions-makepdfs@master
-        with:
-          markdown_dir: ./
-          output_dir: pdf
+      - run: pandoc README.md -f gfm -o cv.pdf --pdf-engine=lualatex -V mainfont="Source Sans Pro"
+
+      # - uses: mkrakowitzer/actions-makepdfs@master
+      #   with:
+      #     markdown_dir: ./
+      #     output_dir: pdf
 
       # - uses: baileyjm02/markdown-to-pdf@v1
       #   with:
