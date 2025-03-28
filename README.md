@@ -1,9 +1,6 @@
 # Aleksandr IAKIMENKO
 
-<details>
-<button onclick="window.print()"><b>Print</b></button>
-</details>
-
+<button onclick="window.print()">`print`</button><br>
 
 | 📍 Location      | 📧 Email                 | 🔗 LinkedIn                                                                 | 🔗 GitHub                                                |
 | :--------------- | :----------------------- | :-------------------------------------------------------------------------- | :------------------------------------------------------- |
