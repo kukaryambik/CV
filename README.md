@@ -2,8 +2,8 @@
 
 <div>
   <div align="right"><button style="border: none; background: none;" onclick="window.print()"><kbd>print</kbd></button></div>
-  <div align="left">📍 Belgrade, Serbia</div>
-</div><br>
+  <div align="left">📍 Belgrade, Serbia</div><br>
+</div>
 
 | 📧 Email                                      | 🔗 LinkedIn                                                                   | 🔗 GitHub                                                  | 🛩️ Telegram                                 |
 | :-------------------------------------------- | :---------------------------------------------------------------------------- | :--------------------------------------------------------- | :------------------------------------------ |
