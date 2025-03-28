@@ -16,14 +16,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - run: pandoc README.md -o cv.pdf --pdf-engine=lualatex -V mainfont="Source Sans Pro"
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: ./
+          output_dir: pdf
+          build_html: false
 
       - uses: actions/upload-artifact@v4
         with:
           name: CV
-          path: cv.pdf
+          path: pdf
 
-      - uses: softprops/action-gh-release@v2
-        if: startsWith(github.ref, 'refs/tags/')
-        with:
-          files: cv.pdf
+      # - uses: softprops/action-gh-release@v2
+      #   if: startsWith(github.ref, 'refs/tags/')
+      #   with:
+      #     files: cv.pdf
