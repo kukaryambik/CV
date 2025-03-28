@@ -1,6 +1,4 @@
-# Aleksandr IAKIMENKO • DevOps Engineer
-
-<div align="right"><sup><button onclick="window.print()"><kbd>print</kbd></button></sup></div>
+# Aleksandr IAKIMENKO • DevOps Engineer <sub><div align="right"><button style="border: none; background: none;" onclick="window.print()"><kbd>print</kbd></button></div></sub>
 
 📍 Belgrade, Serbia
 
