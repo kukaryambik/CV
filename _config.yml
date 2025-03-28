@@ -1,5 +1,5 @@
-title: ""
+# title: ""
 titles_from_headings:
   enabled:     true
-  strip_title: false
-  collections: true
+  strip_title: true
+  # collections: true
