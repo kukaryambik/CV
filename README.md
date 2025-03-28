@@ -1,16 +1,9 @@
 # Aleksandr IAKIMENKO
 
 <details>
-<button id="savePdf"><b>Save as PDF</b></button>
-
-<script src="https://cdn.jsdelivr.net/npm/html2pdf.js@0.10.1/dist/html2pdf.bundle.min.js"></script>
-<script>
-document.getElementById('savePdf').onclick = function () {
-  const element = document.body; // или другой селектор
-  html2pdf(element);
-};
-</script>
+<button onclick="window.print()"><b>Print</b></button>
 </details>
+
 
 | 📍 Location      | 📧 Email                 | 🔗 LinkedIn                                                                 | 🔗 GitHub                                                |
 | :--------------- | :----------------------- | :-------------------------------------------------------------------------- | :------------------------------------------------------- |
