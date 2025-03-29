@@ -2,13 +2,13 @@
 
 📍 Belgrade, Serbia
 
-| 📧 Email                                      | 🔗 LinkedIn                                                                   | 🔗 GitHub                                                  | 🛩️ Telegram                                 |
-| :-------------------------------------------- | :---------------------------------------------------------------------------- | :--------------------------------------------------------- | :------------------------------------------ |
+| 📧 Email                                      | 🔗 LinkedIn                                                               | 🔗 GitHub                                                  | 🛩️ Telegram                                 |
+| :-------------------------------------------- | :------------------------------------------------------------------------ | :--------------------------------------------------------- | :------------------------------------------ |
 | [`a@iakimenko.link`](mailto:a@iakimenko.link) | [`linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/) | [`github.com/kukaryambik`](https://github.com/kukaryambik) | [`@kukaryambik`](https://t.me/kukaryambik/) |
 
-## 🥜 Summary
+## 🥜 In a nutshell
 
-DevOps Engineer with 7+ years of experience specializing in Kubernetes, Terraform, and CI/CD. Proven ability in building scalable, automated infrastructure and optimizing workflows. Passionate about aligning technical solutions with business needs.
+DevOps Engineer with 7+ years of experience specializing in CI/CD and GitOps in Kubernetes. Proven ability to build scalable, automated infrastructure and optimize workflows. Passionate about aligning technical solutions with business needs.
 
 ## 👌 What challenges I solve
 
