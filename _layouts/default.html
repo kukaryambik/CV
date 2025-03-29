@@ -12,6 +12,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       <h1><a href="{{ "/" | absolute_url }}">{{ page.title | default: site.title }}</a></h1>
+      <div style="text-align: right;"><button style="border: none; background: none;" onclick="window.print()"><kbd>print</kbd></button></div>
 
       {{ content }}
 
