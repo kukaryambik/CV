@@ -1,8 +1,8 @@
 # Aleksandr IAKIMENKO • DevOps Engineer
-<div>
-  <div align="right"><button style="border: none; background: none;" onclick="window.print()"><kbd>print</kbd></button></div>
-  <div align="left">📍 Belgrade, Serbia</div><br>
-</div>
+
+<div align="right"><button style="border: none; background: none;" onclick="window.print()"><kbd>print</kbd></button></div>
+
+📍 Belgrade, Serbia
 
 | 📧 Email                                      | 🔗 LinkedIn                                                                   | 🔗 GitHub                                                  | 🛩️ Telegram                                 |
 | :-------------------------------------------- | :---------------------------------------------------------------------------- | :--------------------------------------------------------- | :------------------------------------------ |
