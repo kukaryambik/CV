@@ -1,5 +1,6 @@
 plugins:
-  - jekyll_include_plugin
+  - jekyll-remote-theme 
+remote_theme: pages-themes/primer@v0.6.0
 titles_from_headings:
   enabled:     true
   strip_title: true
