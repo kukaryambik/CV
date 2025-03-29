@@ -14,7 +14,16 @@
       <h1>
         <a href="{{ "/" | absolute_url }}">{{ page.title | default: site.title }}</a>
         <span style="float: right;">
-          <button style="border: none; background: none;" onclick="window.print()"><kbd>Print</kbd></button>
+          <style>
+            @media print {
+              .no-print {
+                display: none;
+              }
+            }
+          </style>
+          <button class="no-print" style="border: none; background: none;" onclick="window.print()">
+            <kbd>Print</kbd>
+          </button>
         </span>
       </h1>
 
