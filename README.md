@@ -24,7 +24,7 @@ _I'm always eager to learn new instruments, but here's a list of tools I've work
 
 - **CI/CD**: GitLab CI, ArgoCD, FluxCD
 - **Containers**: Kubernetes, Docker, Skopeo, Crane, Kaniko
-- **IaC**: Terraform, Ansible, SaltStack
+- **IaC**: Terraform, Ansible, SaltStack, Helm
 - **Security Checks**: Kyverno, Gatekeeper, Trivy, Gitleaks, KICS
 - **Monitoring/Logging**: Prometheus, Grafana, Alertmanager, PagerDuty, Loki, ELK
 - **Languages**: Go, Python, Bash
