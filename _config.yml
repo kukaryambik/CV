@@ -1,6 +1,5 @@
 plugins:
-  - jekyll-remote-theme 
-remote_theme: pages-themes/cayman@v0.2.0
+  - jekyll_include_plugin
 titles_from_headings:
   enabled:     true
   strip_title: true
