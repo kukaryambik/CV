@@ -1,4 +1,4 @@
-# Aleksandr IAKIMENKO • DevOps Engineer
+# Aleksandr IAKIMENKO • <ruby>DevOps <rt><ruby> Release <rt> Platform </rt></ruby></rt></ruby>Engineer
 
 📍 Belgrade, Serbia
 
