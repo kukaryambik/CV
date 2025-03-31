@@ -1,6 +1,8 @@
-# Aleksandr IAKIMENKO • DevOps Engineer
+# Aleksandr IAKIMENKO
 
-📍 Belgrade, Serbia
+**♟️ Position:** DevOps Engineer • Release Engineer • Platform Engineer • SRE
+
+**📍 Location:** Belgrade, Serbia
 
 | 📧 Email                                      | 🔗 LinkedIn                                                               | 🔗 GitHub                                                  | 🛩️ Telegram                                 |
 | :-------------------------------------------- | :------------------------------------------------------------------------ | :--------------------------------------------------------- | :------------------------------------------ |
