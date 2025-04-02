@@ -6,7 +6,7 @@
 
 | 📧 Email                                      | 🔗 LinkedIn                                                               | 🔗 GitHub                                                  | 🛩️ Telegram                                 |
 | :-------------------------------------------- | :------------------------------------------------------------------------ | :--------------------------------------------------------- | :------------------------------------------ |
-| [`a@iakimenko.link`](mailto:a@iakimenko.link) | [`linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/) | [`github.com/kukaryambik`](https://github.com/kukaryambik) | [`@kukaryambik`](https://t.me/kukaryambik/) |
+| [`a@iakimenko.me`](mailto:a@iakimenko.me) | [`linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/) | [`github.com/kukaryambik`](https://github.com/kukaryambik) | [`@kukaryambik`](https://t.me/kukaryambik/) |
 
 ## 🥜 In a nutshell
 
