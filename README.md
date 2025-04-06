@@ -2,7 +2,7 @@
 
 ### Release Engineer • DevOps Engineer • Platform Engineer
 
-Belgrade, Serbia • EMEA
+Belgrade, Serbia • Remote
 
 ## 📞 Contacts
 
