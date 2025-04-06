@@ -4,7 +4,7 @@
 
 **Level:** Senior • Principal • Lead
 
-## 📟 Contacts
+## 📞 Contacts
 
 * **Email:** [`aleksandr@iakimenko.me`](mailto:aleksandr@iakimenko.me)
 * **LinkedIn:** [`linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/)
