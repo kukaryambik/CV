@@ -6,7 +6,7 @@
 
 ## 📞 Contacts
 
-- **Email:** [aleksandr@iakimenko.me](mailto:aleksandr@iakimenko.me)
+- **Email:** [`aleksandr@iakimenko.me`](mailto:aleksandr@iakimenko.me)
 - **LinkedIn:** [`linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/)
 - **GitHub:** [`github.com/kukaryambik`](https://github.com/kukaryambik)
 - **Telegram:** [`@kukaryambik`](https://t.me/kukaryambik/)
