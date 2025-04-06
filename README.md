@@ -2,17 +2,23 @@
 
 **Role:** DevOps Engineer • Release Engineer • Platform Engineer
 
-**Location:** Belgrade, Serbia
+**Level:** Senior • Principal • Lead
 
-| 📧 Email                                      | 🔗 LinkedIn                                                               | 🔗 GitHub                                                  | 🛩️ Telegram                                 |
-| :-------------------------------------------- | :------------------------------------------------------------------------ | :--------------------------------------------------------- | :------------------------------------------ |
-| [`a@iakimenko.me`](mailto:a@iakimenko.me) | [`linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/) | [`github.com/kukaryambik`](https://github.com/kukaryambik) | [`@kukaryambik`](https://t.me/kukaryambik/) |
+## 📟 Contacts
 
-## 🥜 In a nutshell
+* **Email:** [`aleksandr@iakimenko.me`](mailto:aleksandr@iakimenko.me)
+* **LinkedIn:** [`linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/)
+* **GitHub:** [`github.com/kukaryambik`](https://github.com/kukaryambik)
+* **Telegram:** [`@kukaryambik`](https://t.me/kukaryambik/)
+* **Location:** Belgrade, Serbia
+
+## 📌 Summary
+
+**🥜 In a nutshell**
 
 DevOps Engineer with 7+ years of experience specializing in CI/CD and GitOps in Kubernetes. Proven ability to build scalable, automated infrastructure and optimize workflows. Passionate about aligning technical solutions with business needs.
 
-## 👌 What challenges I solve
+**👌 What challenges I solve**
 
 - Create a true CI/CD conveyor for any type of IT product
 - Lead GitOps transformations
@@ -20,7 +26,7 @@ DevOps Engineer with 7+ years of experience specializing in CI/CD and GitOps in 
 - Automate the enforcement of Kubernetes policies (e.g. PSS)
 - Optimize infrastructure cost and observability
 
-## 🧰 My Tool Set
+## 🧰 Skills
 
 _I'm always eager to learn new instruments, but here's a list of tools I've worked with the most:_
 
@@ -30,7 +36,7 @@ _I'm always eager to learn new instruments, but here's a list of tools I've work
 - **Security Checks**: Kyverno, Gatekeeper, Trivy, Gitleaks, KICS
 - **Monitoring/Logging**: Prometheus, Grafana, Alertmanager, PagerDuty, Loki, ELK
 - **Languages**: Go, Python, Bash
-- **Cloud**: Azure, DigitalOcean
+- **Clouds**: Azure, DigitalOcean
 
 ## 🔍 Professional Experience
 
@@ -54,7 +60,7 @@ About the company: automated crypto asset management using predictive analytics 
 - Optimized RabbitMQ and ClickHouse clusters.
 - Developed Python-based analytics and Terraform modules.
 
-**Senior Release Engineer @ [OZON.ru](https://www.ozon.ru/)** _(Oct 2020 - Jun 2021)_
+**Senior Release Engineer @ [OZON](https://www.ozon.ru/)** _(Oct 2020 - Jun 2021)_
 
 About the company: leading e-commerce platform in Russia.
 
