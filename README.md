@@ -29,7 +29,6 @@ Passionate about aligning technical solutions with business needs.
 
 ## 🧰 Skills
 
-> [!NOTE]
 > _I'm always eager to learn new instruments, but here's a list of tools I've worked with the most:_
 
 - **CI/CD**: GitLab CI, ArgoCD, FluxCD
