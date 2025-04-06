@@ -2,7 +2,7 @@
 
 **Role:** DevOps Engineer • Release Engineer • Platform Engineer
 
-**Level:** Senior • Principal • Lead
+**Location:** Belgrade, Serbia • EMEA
 
 ## 📞 Contacts
 
@@ -29,7 +29,7 @@ Passionate about aligning technical solutions with business needs.
 
 ## 🧰 Skills
 
-> _I'm always eager to learn new instruments, but here's a list of tools I've worked with the most:_
+> _I'm always eager to learn new instruments, but here's the list of tools I've worked with the most._
 
 - **CI/CD**: GitLab CI, ArgoCD, FluxCD
 - **Containers**: Kubernetes, Docker, Skopeo, Crane, Kaniko
