@@ -6,11 +6,10 @@
 
 ## 📞 Contacts
 
-- **Email:** [`aleksandr@iakimenko.me`](mailto:aleksandr@iakimenko.me)
+- **Email:** [aleksandr@iakimenko.me](mailto:aleksandr@iakimenko.me)
 - **LinkedIn:** [`linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/)
 - **GitHub:** [`github.com/kukaryambik`](https://github.com/kukaryambik)
 - **Telegram:** [`@kukaryambik`](https://t.me/kukaryambik/)
-- **Location:** Belgrade, Serbia
 
 ## 📌 Summary
 
@@ -30,7 +29,8 @@ Passionate about aligning technical solutions with business needs.
 
 ## 🧰 Skills
 
-_I'm always eager to learn new instruments, but here's a list of tools I've worked with the most:_
+> [!NOTE]
+> _I'm always eager to learn new instruments, but here's a list of tools I've worked with the most:_
 
 - **CI/CD**: GitLab CI, ArgoCD, FluxCD
 - **Containers**: Kubernetes, Docker, Skopeo, Crane, Kaniko
