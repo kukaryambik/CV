@@ -1,6 +1,6 @@
 # Aleksandr IAKIMENKO
 
-**Release Engineer • DevOps Engineer • Platform Engineer**
+### Release Engineer • DevOps Engineer • Platform Engineer
 
 Belgrade, Serbia • EMEA
 
