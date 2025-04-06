@@ -6,17 +6,19 @@
 
 ## 📞 Contacts
 
-* **Email:** [`aleksandr@iakimenko.me`](mailto:aleksandr@iakimenko.me)
-* **LinkedIn:** [`linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/)
-* **GitHub:** [`github.com/kukaryambik`](https://github.com/kukaryambik)
-* **Telegram:** [`@kukaryambik`](https://t.me/kukaryambik/)
-* **Location:** Belgrade, Serbia
+- **Email:** [`aleksandr@iakimenko.me`](mailto:aleksandr@iakimenko.me)
+- **LinkedIn:** [`linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/)
+- **GitHub:** [`github.com/kukaryambik`](https://github.com/kukaryambik)
+- **Telegram:** [`@kukaryambik`](https://t.me/kukaryambik/)
+- **Location:** Belgrade, Serbia
 
 ## 📌 Summary
 
 **🥜 In a nutshell**
 
-DevOps Engineer with 7+ years of experience specializing in CI/CD and GitOps in Kubernetes. Proven ability to build scalable, automated infrastructure and optimize workflows. Passionate about aligning technical solutions with business needs.
+DevOps Engineer with 7+ years of experience specializing in CI/CD and GitOps in Kubernetes.
+Proven ability to build scalable, automated infrastructure and optimize workflows.
+Passionate about aligning technical solutions with business needs.
 
 **👌 What challenges I solve**
 
@@ -53,7 +55,7 @@ About the company: global multi-asset broker.
 
 **DevOps Engineer @ [Cindicator](https://cindicator.com/)** _(Jun 2021 - Sep 2022)_
 
-About the company: automated crypto asset management using predictive analytics based on hybrid intelligence.
+About the company: automated crypto asset management with hybrid predictive analytics.
 
 - Implemented GitOps approach, increasing fault tolerance and reliability.
 - Integrated Vault secrets delivery, monitoring tools (Prometheus, Grafana).
@@ -87,7 +89,7 @@ About the company: development company.
 ## 📚 Portfolio
 
 - **[`github.com/kukaryambik/givme`](https://github.com/kukaryambik/givme)** – Tool for switching container images from inside the container.
-- **[`github.com/kukaryambik/do-cluster`](https://github.com/kukaryambik/do-cluster)** – Ready to use Kubernetes cluster provisioning repo with fully automated CI/CD.
+- **[`github.com/kukaryambik/do-cluster`](https://github.com/kukaryambik/do-cluster)** – Ready to use Kubernetes cluster provisioning repo.
 
 ## 🌐 Languages
 
