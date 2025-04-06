@@ -1,8 +1,8 @@
 # Aleksandr IAKIMENKO
 
-**Role:** DevOps Engineer • Release Engineer • Platform Engineer
+**Release Engineer • DevOps Engineer • Platform Engineer**
 
-**Location:** Belgrade, Serbia • EMEA
+Belgrade, Serbia • EMEA
 
 ## 📞 Contacts
 
@@ -13,13 +13,13 @@
 
 ## 📌 Summary
 
-**🥜 In a nutshell**
+### 🥜 In a nutshell
 
 DevOps Engineer with 7+ years of experience specializing in CI/CD and GitOps in Kubernetes.
 Proven ability to build scalable, automated infrastructure and optimize workflows.
 Passionate about aligning technical solutions with business needs.
 
-**👌 What challenges I solve**
+### 👌 What challenges I solve
 
 - Create a true CI/CD conveyor for any type of IT product
 - Lead GitOps transformations
@@ -41,12 +41,10 @@ Passionate about aligning technical solutions with business needs.
 
 ## 🔍 Professional Experience
 
-**DevOps Engineer @ [Exness](https://www.exness.com/)** _(Nov 2022 - Present)_
-
-About the company: global multi-asset broker.
+**DevOps Engineer @ [Exness](https://www.exness.com/)** (global multi-asset broker) - _Nov 2022 - Present_
 
 - Developed Helm charts and CI/CD processes; streamlined Kubernetes migrations.
-- Standardized GitLab CI templates.
+- Standardised GitLab CI templates.
 - Refactored services from Bash to Go.
 - Integrated PagerDuty and Prometheus Alertmanager.
 - Implemented Gatekeeper policies to ensure PSS compliance.
@@ -54,11 +52,11 @@ About the company: global multi-asset broker.
 
 **DevOps Engineer @ [Cindicator](https://cindicator.com/)** _(Jun 2021 - Sep 2022)_
 
-About the company: automated crypto asset management with hybrid predictive analytics.
+About the company: automated crypto assets management with hybrid intelligence.
 
 - Implemented GitOps approach, increasing fault tolerance and reliability.
 - Integrated Vault secrets delivery, monitoring tools (Prometheus, Grafana).
-- Optimized RabbitMQ and ClickHouse clusters.
+- Optimised RabbitMQ and ClickHouse clusters.
 - Developed Python-based analytics and Terraform modules.
 
 **Senior Release Engineer @ [OZON](https://www.ozon.ru/)** _(Oct 2020 - Jun 2021)_
@@ -74,7 +72,7 @@ About the company: leading e-commerce platform in Russia.
 About the company: pharmaceutical and biotechnological company.
 
 - Introduced GitLab CI, Kubernetes-based CI/CD, and GitFlow practices.
-- Standardized container builds and vulnerability scanning.
+- Standardised container builds and vulnerability scanning.
 - Managed Kubernetes clusters and Flux CD.
 
 **DevOps Engineer @ [DDG LLC](https://www.linkedin.com/company/ddgcorp/about/)** _(Aug 2018 - Apr 2019)_
