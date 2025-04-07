@@ -45,12 +45,11 @@ Passionate about aligning technical solutions with business needs.
 
 > [Exness](https://www.exness.com/): global multi-asset broker.
 
-- Developed Helm charts and CI/CD processes; streamlined Kubernetes migrations.
-- Standardised GitLab CI templates.
-- Refactored services from Bash to Go.
-- Integrated PagerDuty and Prometheus Alertmanager.
-- Implemented Gatekeeper policies to ensure PSS compliance.
-- Managed ML infrastructure using AWS, Terraform, and Airflow, streamlining reducing costs.
+- Developed Helm charts and CI/CD processes; standardised GitLab CI templates.
+- Refactored services from Bash to Go, developed new features for existing services in production on Go.
+- Configured realistic alerting by describing PagerDuty and Prometheus Alertmanager using IaC approach.
+- Migrated services to K8S with implementation of Gatekeeper policies to ensure PSS compliance.
+- Managed ML infrastructure using AWS, Terraform and Airflow, optimised cost reduction.
 
 **DevOps Engineer** _( Jun 2021 - Sep 2022 )_
 
@@ -59,7 +58,7 @@ Passionate about aligning technical solutions with business needs.
 - Implemented GitOps approach, increasing fault tolerance and reliability.
 - Integrated Vault secrets delivery, monitoring tools (Prometheus, Grafana).
 - Optimised RabbitMQ and ClickHouse clusters.
-- Developed Python-based analytics and Terraform modules.
+- Developed Python-based analytics services and Terraform modules.
 
 **Senior Release Engineer** _( Oct 2020 - Jun 2021 )_
 
