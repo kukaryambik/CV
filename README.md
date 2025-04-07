@@ -1,14 +1,15 @@
 # Aleksandr IAKIMENKO
 
-## DevOps Engineer • Release Engineer • Platform Engineer
+**Role:** DevOps Engineer • Release Engineer • Platform Engineer
 
-## 📞 Contacts
+**Location:** Belgrade, Serbia 
 
-- **Email:** [`aleksandr@iakimenko.me`](mailto:aleksandr@iakimenko.me)
-- **LinkedIn:** [`linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/)
-- **GitHub:** [`github.com/kukaryambik`](https://github.com/kukaryambik)
-- **Telegram:** [`@kukaryambik`](https://t.me/kukaryambik/)
-- **Location:** Belgrade, Serbia
+|               | Contacts                                                                  |
+|:--------------|:--------------------------------------------------------------------------|
+| **Email:**    | [`aleksandr@iakimenko.me`](mailto:aleksandr@iakimenko.me)                 |
+| **LinkedIn:** | [`linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/) |
+| **GitHub:**   | [`github.com/kukaryambik`](https://github.com/kukaryambik)                |
+| **Telegram:** | [`@kukaryambik`](https://t.me/kukaryambik/)                               |
 
 ## 📌 Summary
 
