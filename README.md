@@ -1,4 +1,6 @@
-# Aleksandr IAKIMENKO <br><sub>DevOps Engineer • Release Engineer • Platform Engineer</sub>
+# Aleksandr IAKIMENKO
+
+## DevOps Engineer • Release Engineer • Platform Engineer
 
 ## 📞 Contacts
 
