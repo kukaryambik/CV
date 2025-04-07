@@ -16,13 +16,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - run: apk add --no-cache font-noto font-noto-emoji
+      - run: apk add --no-cache font-noto font-noto-emoji && fc-cache -fv
 
       - run: |-
           pandoc README.md -f gfm -o cv.pdf --pdf-engine=tectonic \
             --variable mainfont="Noto Serif" \
             --variable sansfont="Noto Sans" \
-            --variable monofont="Noto Mono" \
+            --variable monofont="Noto Sans Mono" \
             --variable header-includes="\newfontfamily\emoji{Noto Color Emoji}"
 
       # - uses: mkrakowitzer/actions-makepdfs@master
