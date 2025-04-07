@@ -1,8 +1,4 @@
-# Aleksandr IAKIMENKO
-
-### Release Engineer • DevOps Engineer • Platform Engineer
-
-Belgrade, Serbia • Remote
+# Aleksandr IAKIMENKO <br><sub>DevOps Engineer • Release Engineer • Platform Engineer</sub>
 
 ## 📞 Contacts
 
@@ -10,16 +6,17 @@ Belgrade, Serbia • Remote
 - **LinkedIn:** [`linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/)
 - **GitHub:** [`github.com/kukaryambik`](https://github.com/kukaryambik)
 - **Telegram:** [`@kukaryambik`](https://t.me/kukaryambik/)
+- **Location:** Belgrade, Serbia
 
 ## 📌 Summary
 
-### 🥜 In a nutshell
+#### 🥜 In a nutshell
 
 DevOps Engineer with 7+ years of experience specializing in CI/CD and GitOps in Kubernetes.
 Proven ability to build scalable, automated infrastructure and optimize workflows.
 Passionate about aligning technical solutions with business needs.
 
-### 👌 What challenges I solve
+#### 👌 What challenges I solve
 
 - Create a true CI/CD conveyor for any type of IT product
 - Lead GitOps transformations
