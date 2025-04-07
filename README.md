@@ -31,7 +31,7 @@ Passionate about aligning technical solutions with business needs.
 
 > _I'm always eager to learn new instruments, but here's the list of tools I've worked with the most._
 
-- **CI/CD**: GitLab CI, ArgoCD, FluxCD
+- **CI/CD**: GitLab CI, Circle CI, Github Actions, ArgoCD, FluxCD
 - **Containers**: Kubernetes, Docker, Skopeo, Crane, Kaniko
 - **IaC**: Terraform, Ansible, SaltStack, Helm
 - **Security Checks**: Kyverno, Gatekeeper, Trivy, Gitleaks, KICS
