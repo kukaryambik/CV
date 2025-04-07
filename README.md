@@ -36,8 +36,8 @@ Passionate about aligning technical solutions with business needs.
 - **IaC**: Terraform, Ansible, SaltStack, Helm
 - **Security Checks**: Kyverno, Gatekeeper, Trivy, Gitleaks, KICS
 - **Monitoring/Logging**: Prometheus, Grafana, Alertmanager, PagerDuty, Loki, ELK
-- **Languages**: Go, Python, Bash
-- **Clouds**: Azure, DigitalOcean
+- **Programming Languages**: Go, Python, Bash
+- **Cloud Providers**: Azure, DigitalOcean
 
 ## 🔍 Professional Experience
 
