@@ -22,8 +22,7 @@ jobs:
           pandoc README.md -f gfm -o cv.pdf --pdf-engine=tectonic \
             --variable mainfont="Noto Serif" \
             --variable sansfont="Noto Sans" \
-            --variable monofont="Noto Sans Mono" \
-            --variable header-includes="\newfontfamily\emoji{Noto Color Emoji}"
+            --variable monofont="Noto Sans Mono"
 
       # - uses: mkrakowitzer/actions-makepdfs@master
       #   with:
