@@ -2,7 +2,8 @@
 
 **Role:** DevOps Engineer • Release Engineer • Platform Engineer
 
-**Location:** Belgrade, Serbia 
+**Location:** Belgrade, Serbia
+
 
 |               | Contacts                                                                  |
 |:--------------|:--------------------------------------------------------------------------|
@@ -10,6 +11,7 @@
 | **LinkedIn:** | [`linkedin.com/in/kukaryambik`](https://www.linkedin.com/in/kukaryambik/) |
 | **GitHub:**   | [`github.com/kukaryambik`](https://github.com/kukaryambik)                |
 | **Telegram:** | [`@kukaryambik`](https://t.me/kukaryambik/)                               |
+
 
 ## 📌 Summary
 
@@ -27,6 +29,7 @@ Passionate about aligning technical solutions with business needs.
 - Automate the enforcement of Kubernetes policies (e.g. PSS)
 - Optimize infrastructure cost and observability
 
+
 ## 🧰 Skills
 
 > _I'm always eager to learn new instruments, but here's the list of tools I've worked with the most._
@@ -39,7 +42,9 @@ Passionate about aligning technical solutions with business needs.
 - **Languages**: Go, Python, Bash
 - **Clouds**: Azure, DigitalOcean
 
+
 ## 🔍 Professional Experience
+
 
 **DevOps Engineer** _( Nov 2022 - Present )_
 
@@ -51,6 +56,7 @@ Passionate about aligning technical solutions with business needs.
 - Migrated services to K8S with implementation of Gatekeeper policies to ensure PSS compliance.
 - Managed ML infrastructure using AWS, Terraform and Airflow, optimised cost reduction.
 
+
 **DevOps Engineer** _( Jun 2021 - Sep 2022 )_
 
 > [Cindicator](https://cindicator.com/): automated crypto assets management with hybrid intelligence.
@@ -60,6 +66,7 @@ Passionate about aligning technical solutions with business needs.
 - Optimised RabbitMQ and ClickHouse clusters.
 - Developed Python-based analytics services and Terraform modules.
 
+
 **Senior Release Engineer** _( Oct 2020 - Jun 2021 )_
 
 > [OZON](https://www.ozon.ru/): leading e-commerce platform in Russia.
@@ -67,6 +74,7 @@ Passionate about aligning technical solutions with business needs.
 - Reduced Time to Market by optimizing CI processes.
 - Built Docker-less image management pipelines with Kaniko and Skopeo.
 - Developed automation tools and dashboards in Grafana.
+
 
 **DevOps Engineer** _( May 2019 - Oct 2020 )_
 
@@ -76,6 +84,7 @@ Passionate about aligning technical solutions with business needs.
 - Standardised container builds and vulnerability scanning.
 - Managed Kubernetes clusters and Flux CD.
 
+
 **DevOps Engineer** _( Aug 2018 - Apr 2019 )_
 
 > [DDG LLC](https://www.linkedin.com/company/ddgcorp/about/): development company.
@@ -84,10 +93,12 @@ Passionate about aligning technical solutions with business needs.
 - Developed Gitlab CI pipelines.
 - Managed Nginx, HAProxy, and OpenVPN integrations.
 
+
 ## 📚 Portfolio
 
-- **[`github.com/kukaryambik/givme`](https://github.com/kukaryambik/givme)** – Tool for switching container images from inside the container.
-- **[`github.com/kukaryambik/do-cluster`](https://github.com/kukaryambik/do-cluster)** – Ready to use Kubernetes cluster provisioning repo.
+- **[`github.com/kukaryambik/givme`](https://github.com/kukaryambik/givme)** - Tool for switching container images from inside the container.
+- **[`github.com/kukaryambik/do-cluster`](https://github.com/kukaryambik/do-cluster)** - Ready to use Kubernetes cluster provisioning repo.
+
 
 ## 🌐 Languages
 
