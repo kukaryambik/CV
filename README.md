@@ -41,7 +41,9 @@ Passionate about aligning technical solutions with business needs.
 
 ## 🔍 Professional Experience
 
-**DevOps Engineer @ [Exness](https://www.exness.com/)** (global multi-asset broker) - _Nov 2022 - Present_
+**DevOps Engineer @ [Exness](https://www.exness.com/)** _( Nov 2022 - Present )_
+
+> About the company: global multi-asset broker
 
 - Developed Helm charts and CI/CD processes; streamlined Kubernetes migrations.
 - Standardised GitLab CI templates.
@@ -50,34 +52,34 @@ Passionate about aligning technical solutions with business needs.
 - Implemented Gatekeeper policies to ensure PSS compliance.
 - Managed ML infrastructure using AWS, Terraform, and Airflow, streamlining reducing costs.
 
-**DevOps Engineer @ [Cindicator](https://cindicator.com/)** _(Jun 2021 - Sep 2022)_
+**DevOps Engineer @ [Cindicator](https://cindicator.com/)** _( Jun 2021 - Sep 2022 )_
 
-About the company: automated crypto assets management with hybrid intelligence.
+> About the company: automated crypto assets management with hybrid intelligence.
 
 - Implemented GitOps approach, increasing fault tolerance and reliability.
 - Integrated Vault secrets delivery, monitoring tools (Prometheus, Grafana).
 - Optimised RabbitMQ and ClickHouse clusters.
 - Developed Python-based analytics and Terraform modules.
 
-**Senior Release Engineer @ [OZON](https://www.ozon.ru/)** _(Oct 2020 - Jun 2021)_
+**Senior Release Engineer @ [OZON](https://www.ozon.ru/)** _( Oct 2020 - Jun 2021 )_
 
-About the company: leading e-commerce platform in Russia.
+> About the company: leading e-commerce platform in Russia.
 
 - Reduced Time to Market by optimizing CI processes.
 - Built Docker-less image management pipelines with Kaniko and Skopeo.
 - Developed automation tools and dashboards in Grafana.
 
-**DevOps Engineer @ [BIOCAD](https://eng.biocad.ru/)** _(May 2019 - Oct 2020)_
+**DevOps Engineer @ [BIOCAD](https://eng.biocad.ru/)** _( May 2019 - Oct 2020 )_
 
-About the company: pharmaceutical and biotechnological company.
+> About the company: pharmaceutical and biotechnological company.
 
 - Introduced GitLab CI, Kubernetes-based CI/CD, and GitFlow practices.
 - Standardised container builds and vulnerability scanning.
 - Managed Kubernetes clusters and Flux CD.
 
-**DevOps Engineer @ [DDG LLC](https://www.linkedin.com/company/ddgcorp/about/)** _(Aug 2018 - Apr 2019)_
+**DevOps Engineer @ [DDG LLC](https://www.linkedin.com/company/ddgcorp/about/)** _( Aug 2018 - Apr 2019 )_
 
-About the company: development company.
+> About the company: development company.
 
 - Automated infrastructure with Ansible.
 - Developed Gitlab CI pipelines.
