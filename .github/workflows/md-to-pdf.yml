@@ -1,0 +1,47 @@
+name: MD to PDF
+
+on:
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+    # paths:
+    #   - '**.md'
+
+jobs:
+  md-to-pdf:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    container: pandoc/extra:3.6
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: apk add --no-cache font-noto font-noto-emoji
+
+      - run: |-
+          pandoc README.md -f gfm -o cv.pdf --pdf-engine=tectonic \
+            --variable mainfont="Noto Serif" \
+            --variable sansfont="Noto Sans" \
+            --variable monofont="Noto Mono" \
+            --variable header-includes="\newfontfamily\emoji{Noto Color Emoji}"
+
+      # - uses: mkrakowitzer/actions-makepdfs@master
+      #   with:
+      #     markdown_dir: ./
+      #     output_dir: pdf
+
+      # - uses: baileyjm02/markdown-to-pdf@v1
+      #   with:
+      #     input_dir: ./
+      #     output_dir: pdf
+      #     build_html: false
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: CV
+          path: cv.pdf
+
+      # - uses: softprops/action-gh-release@v2
+      #   if: startsWith(github.ref, 'refs/tags/')
+      #   with:
+      #     files: cv.pdf
