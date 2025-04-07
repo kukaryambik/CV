@@ -47,7 +47,7 @@ Passionate about aligning technical solutions with business needs.
 
 - Developed Helm charts and CI/CD processes; standardised GitLab CI templates.
 - Refactored services from Bash to Go, developed new features for existing services in production on Go.
-- Configured realistic alerting by describing PagerDuty and Prometheus Alertmanager using IaC approach.
+- Configured realistic alerting with PagerDuty and Prometheus Alertmanager using IaC approach.
 - Migrated services to K8S with implementation of Gatekeeper policies to ensure PSS compliance.
 - Managed ML infrastructure using AWS, Terraform and Airflow, optimised cost reduction.
 
