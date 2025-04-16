@@ -21,9 +21,9 @@ Passionate about aligning technical solutions with business needs.
 
 #### 👌 What challenges I solve
 
-- Lead GitOps transformations and/or migration to Kubernetes (cloud or on-premises)
-- Automate the enforcement of Kubernetes policies (e.g. Network Policies, PSS implementation, etc)
-- Create a true CI/CD conveyor for any type of IT product
+- Lead GitOps transformation and migration to Kubernetes (cloud or on-premises)
+- Automate the enforcement of Kubernetes policies (Network Policies, PSS implementation, etc)
+- Create a true CI/CD pipeline for any type of IT product
 - Optimize infrastructure cost and observability
 
 ## 🧰 Skills
