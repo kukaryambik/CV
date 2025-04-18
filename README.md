@@ -50,7 +50,7 @@ Passionate about aligning technical solutions with business needs.
 - Developed Helm charts and CI/CD processes; standardised GitLab CI templates.
 - Managed ML infrastructure using AWS, Terraform and Airflow, optimised cost reduction.
 
-**DevOps Engineer** _( Jun 2021 - Sep 2022 )_
+**Lead DevOps Engineer** _( Jun 2021 - Sep 2022 )_
 
 > [Cindicator](https://cindicator.com/): automated crypto assets management with hybrid intelligence.
 
